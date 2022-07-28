@@ -1,0 +1,6 @@
+1 Incorrectly added initial data to git repository. And so I can't look for the changes that I made.
+
+At first I had to add the initial project and commit it with initial commit.
+At second - write method that remove item from localStorage and make commit (added method to model (remove item)).
+Next - write method that remove item from view and make commit (added method to view (remove item)).
+Then I had to push  data to the git repository.
